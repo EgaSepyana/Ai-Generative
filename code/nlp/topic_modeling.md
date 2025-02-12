@@ -1,0 +1,1 @@
+Topic modeling takes a set of documents, and by documents I mean individual pieces of text. Topic modeling will scan each of our documents to identify patterns. We can then group similar documents together into our topics.
