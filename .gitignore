@@ -1,3 +1,5 @@
 *.pdf
 .ipynb_checkpoints
 venv
+*.safetensors
+*.pt
